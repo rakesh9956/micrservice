@@ -1,0 +1,2 @@
+CONTEXT_PATH=admin-aggregation-express-service/
+PORT=3001
